@@ -7,7 +7,9 @@ The scraping class will be responsible for retrieving data such as product names
 Before running the web scraping script, make sure you have the following installed:
 
 Python
+
 Requests_html
+
 latest_user_agents
 
 ## Notes
